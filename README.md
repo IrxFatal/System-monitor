@@ -12,9 +12,11 @@ It is a test project for learning Flask API systems.
    cd system-monitor
 
 2. Install dependencies:
+   ```bash
     pip install -r requirements.txt
 
 3. Run app:
+   ```bash
     python app.py
 
 After that, you will be able to open in your browser:
@@ -23,5 +25,5 @@ After that, you will be able to open in your browser:
     - JSON data: http://127.0.0.1:5000/stats
 
 ## License
-
-This code is under MIT License.
+   ```bash
+   This code is under MIT License.
